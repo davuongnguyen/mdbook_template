@@ -1,9 +1,9 @@
 [book]
-authors = ["Đa Vương Nguyên"]
-language = "vi"
+authors = ["Arthor Name"]
+language = ["language"]
 multilingual = true
 src = "src"
-title = "Learn FreeRTOS"
+title = ["Book Title"]
 text_direction = "ltr"
 
 [build]
