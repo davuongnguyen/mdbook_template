@@ -1,0 +1,5 @@
+# mdbook output directory
+book
+
+# IDE configuration directory
+**/.vscode

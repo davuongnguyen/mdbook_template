@@ -1,0 +1,12 @@
+[book]
+authors = ["Đa Vương Nguyên"]
+language = "vi"
+multilingual = true
+src = "src"
+title = "Learn FreeRTOS"
+text_direction = "ltr"
+
+[build]
+build-dir = "book"
+create-missing = true
+use-default-proccessors = true
