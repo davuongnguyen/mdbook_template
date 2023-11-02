@@ -1,9 +1,9 @@
 [book]
-authors = ["Arthor Name"]
-language = ["language"]
+authors =               # Enter author book here, example "Đa Vương Nguyên"
+language =              # Enter language book here. Example English = "en", Vietnamese = "vi",...
 multilingual = true
 src = "src"
-title = ["Book Title"]
+title =                 # Enter title book here, example "My Book"
 text_direction = "ltr"
 
 [build]
