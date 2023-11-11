@@ -1,5 +1,5 @@
 [book]
-authors =               # Enter author book here, example "Đa Vương Nguyên"
+authors =               # Enter author book here, example ["Đa Vương Nguyên"]
 language =              # Enter language book here. Example English = "en", Vietnamese = "vi",...
 multilingual = true
 src = "src"
@@ -10,3 +10,6 @@ text_direction = "ltr"
 build-dir = "book"
 create-missing = true
 use-default-proccessors = true
+
+[output.html]
+mathjax-support = true
